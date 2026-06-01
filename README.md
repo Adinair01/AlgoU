@@ -1,5 +1,9 @@
 # AlgoU
 
+This repository was created as part of my GitHub familiarization 
+assignment during my internship at AlgoUniversity. It documents the 
+core GitHub concepts I explored hands-on.
+
 ## What I Learned About GitHub
 
    - **Repository:** A project's home - stores all files and their full history.
